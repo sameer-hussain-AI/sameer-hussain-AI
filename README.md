@@ -1,24 +1,26 @@
 👋 Hi, I'm Sameer Hussain
 
-📊 Aspiring Data Analyst | Python | Power BI | Excel | SQL | AI & Machine Learning
+📊 Aspiring Data Analyst | Power BI | Python | Excel | SQL | AI
 
-I'm a student and aspiring Data Analyst passionate about turning raw data into meaningful insights, interactive dashboards, and practical solutions.
+I build data analytics projects, interactive dashboards, and data-driven solutions using Python, Power BI, Excel, and SQL.
 
-I enjoy working with real-world datasets, performing exploratory data analysis, building business intelligence dashboards, and exploring Machine Learning and Artificial Intelligence.
+Currently focused on developing strong skills in Data Analytics, Business Intelligence, Machine Learning, and AI.
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameer-hussain-AI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>---
 
-🚀 About Me
+🧑‍💻 About Me
 
-- 🎓 Student passionate about Data Analytics & Artificial Intelligence
-- 📊 Building practical data analytics projects
-- 🐍 Working with Python, Pandas & NumPy
-- 📈 Building interactive dashboards with Power BI
+- 📊 Aspiring Data Analyst / BI Analyst
+- 🐍 Building projects with Python, Pandas & NumPy
+- 📈 Creating interactive Power BI dashboards
 - 📊 Working with Excel, Power Query & DAX
-- 🗄️ Learning and improving SQL
-- 🤖 Exploring Machine Learning, Deep Learning & Generative AI
+- 🗄️ Developing my SQL skills
+- 🤖 Exploring Machine Learning & Artificial Intelligence
 - 🏏 Interested in Sports Analytics
-- 🌱 Always learning, building and improving
+- 📦 Interested in Business & Supply Chain Analytics
+- 🚀 Focused on building a strong real-world portfolio
 
 ---
 
@@ -26,42 +28,43 @@ I enjoy working with real-world datasets, performing exploratory data analysis, 
 
 📊 Data Analytics
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-"Excel" (https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/></p>Python • Pandas • NumPy • SQL • Jupyter
 
-📈 Business Intelligence & Visualization
+---
 
-"Power BI" (https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-"Power Query" (https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge)
-"DAX" (https://img.shields.io/badge/DAX-512BD4?style=for-the-badge)
-"Matplotlib" (https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-"Seaborn" (https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+📈 Business Intelligence
+
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="45" height="45" alt="Microsoft"/></p>Power BI • Excel • Power Query • DAX • Data Modeling • KPI Development
+
+---
+
+📉 Data Visualization
+
+Matplotlib • Seaborn • Power BI • Excel
+
+---
 
 🤖 AI & Machine Learning
 
-"Machine Learning" (https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-"Artificial Intelligence" (https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
+Machine Learning • Deep Learning • Generative AI • Artificial Intelligence
 
-🧰 Tools
+---
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Jupyter" (https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+🔧 Tools
+
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/></p>Git • GitHub • Jupyter
 
 ---
 
 ⭐ Featured Projects
 
-🏏 PSL Analysis & Dashboard
+🏏 PSL Cricket Analytics & Dashboard
 
 Power BI • DAX • Power Query • Python • Data Analytics
 
-An interactive Pakistan Super League cricket analytics project focused on analyzing teams, players, matches, batting, bowling and overall performance.
+An interactive Pakistan Super League analytics project analyzing teams, players, matches and cricket performance.
 
-🔍 Highlights
+📊 Analysis Includes
 
 - 🏆 Team Performance
 - 👤 Player Performance
@@ -71,63 +74,68 @@ An interactive Pakistan Super League cricket analytics project focused on analyz
 - 🔄 Data Transformation
 - 📈 Interactive Power BI Dashboard
 
-🔗 "View PSL Analysis & Dashboard →" (https://github.com/sameer-hussain-AI/PSL-ANALYSIS-AND-DASHBOARD)
-
----
-
-💰 Personal Finance Tracker CLI
-
-Python • CSV • CLI • Excel Export
-
-A Python command-line application for managing personal finances, transactions, budgets, accounts and financial reports.
-
-🔍 Features
-
-- 💵 Income & Expense Tracking
-- 🔎 Search & Filtering
-- 💰 Budget Management
-- 🏦 Account Management
-- 🗂️ Category Management
-- 📊 Financial Reports
-- 📄 CSV Data Management
-- 📈 Excel Export
-
-🔗 "View Personal Finance Tracker →" (https://github.com/sameer-hussain-AI/Personal-Finance-Tracker-CLI)
+🔗 Project:
+https://github.com/sameer-hussain-AI/PSL-ANALYSIS-AND-DASHBOARD
 
 ---
 
 📦 Supply Chain Power BI Analytics
 
-Python • Pandas • Power BI • DAX • Power Query
+Python • Pandas • Power Query • Power BI • DAX
 
-An end-to-end analytics project focused on sales, profitability, regional performance and operational insights.
+End-to-end analytics project focused on understanding sales, profitability, regional performance and business trends.
 
-🔍 Highlights
+📊 Analysis Includes
 
-- Exploratory Data Analysis
 - Data Cleaning
+- Exploratory Data Analysis
 - Business KPIs
 - Regional Performance
 - Category Analysis
 - Profitability Analysis
 - Interactive Power BI Dashboard
 
+🔗 Project:
+https://github.com/sameer-hussain-AI/Supply-Chain-PowerBI-Analytics
+
 ---
 
-🛒 E-Commerce Sales & Profitability
+💰 Personal Finance Tracker CLI
+
+Python • CSV • CLI
+
+A Python command-line application designed to manage personal finances and generate useful financial reports.
+
+⚙️ Features
+
+- 💵 Income & Expense Tracking
+- 💰 Budget Management
+- 🔎 Search & Filtering
+- 🏦 Account Management
+- 🗂️ Category Management
+- 📊 Financial Reports
+- 📄 CSV Data Management
+- 📤 Data Export
+
+🔗 Project:
+https://github.com/sameer-hussain-AI/Personal-Finance-Tracker-CLI
+
+---
+
+🛒 E-Commerce Sales & Profitability Analytics
 
 Excel • Power Query • Power BI
 
-A business analytics project analyzing sales, customers, products and profitability.
+Business analytics project analyzing sales, customers, products and profitability.
 
-🔍 Highlights
+📊 Analysis Includes
 
 - Sales Performance
 - Product Analysis
 - Customer Analysis
 - Profitability
 - KPI Development
-- Interactive Dashboard
+- Dashboard Development
 
 ---
 
@@ -135,9 +143,9 @@ A business analytics project analyzing sales, customers, products and profitabil
 
 Excel • Power Query
 
-A customer analytics project focused on understanding churn, retention, customer value and revenue at risk.
+Customer analytics project focused on understanding churn, retention, customer value and revenue at risk.
 
-🔍 Highlights
+📊 Analysis Includes
 
 - Churn Rate
 - Retention Rate
@@ -148,45 +156,79 @@ A customer analytics project focused on understanding churn, retention, customer
 
 ---
 
-📊 My Analytics Workflow
+📊 GitHub Analytics
 
-Raw Data
-    ↓
-Data Cleaning
-    ↓
-Exploratory Data Analysis
-    ↓
-Data Transformation
-    ↓
-Data Modeling
-    ↓
-KPI Development
-    ↓
-Visualization
-    ↓
-Business Insights
-    ↓
-Data-Driven Decisions
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sameer-hussain-AI&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-hussain-AI&layout=compact&hide_border=true&langs_count=8" height="180"/></p>---
 
----
+🔥 Contribution Streak
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=sameer-hussain-AI&hide_border=true" alt="GitHub Contribution Streak"/></p>---
+
+📈 My Analytics Workflow
+
+<p align="center">RAW DATA
+
+⬇️
+
+DATA CLEANING
+
+⬇️
+
+EXPLORATORY DATA ANALYSIS
+
+⬇️
+
+DATA TRANSFORMATION
+
+⬇️
+
+DATA MODELING
+
+⬇️
+
+KPI DEVELOPMENT
+
+⬇️
+
+VISUALIZATION
+
+⬇️
+
+BUSINESS INSIGHTS
+
+⬇️
+
+DATA-DRIVEN DECISIONS
+
+</p>---
 
 📚 Currently Learning
 
+🎯 Data Analytics Roadmap
+
 Data Analytics
-      ↓
+
+⬇️
+
 Advanced SQL
-      ↓
+
+⬇️
+
 Machine Learning
-      ↓
+
+⬇️
+
 Deep Learning
-      ↓
+
+⬇️
+
 Generative AI
 
 ---
 
 🏆 Certifications & Learning
 
-- 🐍 Python Certification — UniAthena
+- 🐍 Python — UniAthena
 - 🤖 Claude 101
 - ✨ Gemini Certified Student
 - 🧠 OpenAI AI Foundations
@@ -198,41 +240,41 @@ Generative AI
 
 🎯 Career Goal
 
-I'm working toward becoming a Data Analyst / BI Analyst and eventually combining Data Analytics with Machine Learning and AI to solve real-world problems.
+My goal is to become a Data Analyst / BI Analyst and eventually combine Data Analytics, Machine Learning and Artificial Intelligence to solve real-world problems.
 
-Areas I'm interested in:
+Interested in:
 
 📊 Data Analytics
 📈 Business Intelligence
 📉 Data Visualization
+🏏 Sports Analytics
+📦 Supply Chain Analytics
+👥 Customer Analytics
 🤖 Machine Learning
 🧠 Artificial Intelligence
-🏏 Sports Analytics
-👥 Customer Analytics
-📦 Supply Chain Analytics
 
 ---
 
-🤝 Let's Connect
+📫 Let's Connect
 
-💼 LinkedIn
+<p align="center"><a href="https://www.linkedin.com/in/sameer-hussain-920722356/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
+</a>   
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/sameer-hussain-920722356/)
+<a href="https://github.com/sameer-hussain-AI">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</a></p>---
 
-💻 GitHub
-
-""GitHub" (https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/sameer-hussain-AI)
-
----
-
-💬 My Philosophy
+💡 My Philosophy
 
 «Learn → Build → Analyze → Share → Improve»
 
-I believe the best way to learn technology is to build real projects, solve practical problems, and continuously improve.
+I believe the best way to learn technology is to build real projects, solve practical problems and continuously improve.
 
 ---
 
-⭐ If you find my projects useful, consider giving them a star!
+<p align="center">⭐ Thanks for visiting my profile!
 
-Thanks for visiting my profile! 🚀
+Let's turn data into insights. 📊
+
+</p>
