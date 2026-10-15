@@ -1,33 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?section=header&type=wave&height=230&color=0:0D1117,100:1F6FEB&text=Sameer%20Hussain&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Aspiring%20Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20AI%20%26%20ML&descSize=18&descAlignY=56" alt="Sameer Hussain - Aspiring Data Analyst" width="100%" />
+<img src="assets/banner.svg" alt="Sameer Hussain - Aspiring Data Analyst, Business Intelligence" width="100%" />
 
 ### Turning raw data into dashboards, insights and decisions
 
-I build analytics projects with **Power BI, Python, Excel and SQL**, and I'm growing into Machine Learning and AI.
-
-<br/>
-
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge)
-
-](https://www.linkedin.com/in/sameer-hussain-920722356/)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-sameer--hussain--AI-30363D?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/sameer-hussain-AI)
+I build analytics projects with **Power BI, Python, Excel and SQL**.
 
 <br/>
 
 | Focus | Core Stack | Project Domains |
 |:---:|:---:|:---:|
-| Data Analytics · BI · ML & AI | Power BI · Python · Excel · SQL | Sports · Supply Chain · Retail · Finance |
+| Data Analytics · Business Intelligence | Power BI · Python · Excel · SQL | Sports · Supply Chain · Retail · Finance |
 
 </div>
-
-<!-- BANNER FALLBACK: if the header image ever fails to load, replace it with:  # Sameer Hussain -->
 
 <br/>
 
@@ -35,7 +20,7 @@ I build analytics projects with **Power BI, Python, Excel and SQL**, and I'm gro
 
 <p align="center">
 I'm an aspiring Data Analyst who learns by building. I clean and model data, develop KPIs, and turn them into interactive dashboards and clear business insights.<br/>
-My goal is to become a Data Analyst / BI Analyst, then combine analytics with Machine Learning and AI to solve real-world problems.
+My goal is to become a Data Analyst / BI Analyst and solve real-world business problems with data.
 </p>
 
 <h2 align="center">🛠️ Technical Skills</h2>
@@ -91,19 +76,6 @@ My goal is to become a Data Analyst / BI Analyst, then combine analytics with Ma
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
  |
-| **AI / ML** *(learning)* | 
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-1F6FEB?style=flat-square)
-
- 
-
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-1F6FEB?style=flat-square)
-
- 
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-1F6FEB?style=flat-square)
-
- |
 | **Tools** | 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -133,12 +105,14 @@ My goal is to become a Data Analyst / BI Analyst, then combine analytics with Ma
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/sameer-hussain-AI/Supply-Chain-PowerBI-Analytics"><img src="assets/thumb-supply-chain.svg" alt="Supply Chain Analytics thumbnail" width="100%"></a>
 <h3><a href="https://github.com/sameer-hussain-AI/Supply-Chain-PowerBI-Analytics">📦 Supply Chain Analytics</a></h3>
 <p>End-to-end project on sales, profitability, product, category and regional performance, from data cleaning and EDA to KPIs and an interactive dashboard.</p>
 <p><code>Python</code> · <code>Pandas</code> · <code>Power Query</code> · <code>Power BI</code> · <code>DAX</code></p>
 <p><a href="https://github.com/sameer-hussain-AI/Supply-Chain-PowerBI-Analytics">View project →</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/sameer-hussain-AI/Personal-Finance-Tracker-CLI"><img src="assets/thumb-finance-tracker.svg" alt="Personal Finance Tracker CLI thumbnail" width="100%"></a>
 <h3><a href="https://github.com/sameer-hussain-AI/Personal-Finance-Tracker-CLI">💰 Personal Finance Tracker CLI</a></h3>
 <p>Modular Python command-line app for income and expense tracking, budgeting, accounts, categories, search and filtering, reports, and CSV/Excel export.</p>
 <p><code>Python</code> · <code>CSV</code></p>
@@ -147,12 +121,14 @@ My goal is to become a Data Analyst / BI Analyst, then combine analytics with Ma
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/sameer-hussain-AI/E-Commerce-Sales-Analysis-Dashboard"><img src="assets/thumb-ecommerce.svg" alt="E-Commerce Sales Dashboard thumbnail" width="100%"></a>
 <h3><a href="https://github.com/sameer-hussain-AI/E-Commerce-Sales-Analysis-Dashboard">🛒 E-Commerce Sales Dashboard</a></h3>
 <p>Interactive Excel dashboard covering sales, profit, product, category and customer analysis, with Power Query cleaning, KPIs, PivotTables and PivotCharts.</p>
 <p><code>Excel</code> · <code>Power Query</code></p>
 <p><a href="https://github.com/sameer-hussain-AI/E-Commerce-Sales-Analysis-Dashboard">View project →</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/sameer-hussain-AI/Supermarket-Performance-Analysis"><img src="assets/thumb-supermarket.svg" alt="Supermarket Performance Analysis thumbnail" width="100%"></a>
 <h3><a href="https://github.com/sameer-hussain-AI/Supermarket-Performance-Analysis">🛍️ Supermarket Performance Analysis</a></h3>
 <p>Exploratory data analysis of supermarket sales to uncover trends, customer behavior and actionable business insights.</p>
 <p><code>Python</code></p>
@@ -176,15 +152,14 @@ My goal is to become a Data Analyst / BI Analyst, then combine analytics with Ma
 
 <h2 align="center">🎓 Learning & Certifications</h2>
 
-<p align="center"><b>Roadmap:</b> Data Analytics → Advanced SQL → Machine Learning → Deep Learning → Generative AI</p>
+<p align="center"><b>Currently strengthening:</b> Data Analytics and Advanced SQL</p>
 
 <div align="center">
 
 | | |
 |:--|:--|
-| Python, UniAthena | Microsoft Introduction to Generative AI |
-| Kaggle Python | OpenAI AI Foundations |
-| DigiSkills: Data Analytics with AI | Claude 101 · Gemini Certified Student |
+| Python, UniAthena | Kaggle Python |
+| DigiSkills: Data Analytics with AI | |
 
 </div>
 
@@ -198,24 +173,17 @@ My goal is to become a Data Analyst / BI Analyst, then combine analytics with Ma
 
 I'm always happy to talk about data, dashboards and analytics projects.
 
-[
+<br/>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge)
+<a href="https://www.linkedin.com/in/sameer-hussain-920722356/"><img src="assets/linkedin.svg" alt="LinkedIn" width="52" height="52"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/sameer-hussain-AI"><img src="assets/github.svg" alt="GitHub" width="52" height="52"></a>
 
-](https://www.linkedin.com/in/sameer-hussain-920722356/)
-[
+<br/>
 
-![GitHub](https://img.shields.io/badge/GitHub-Follow-30363D?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://www.linkedin.com/in/sameer-hussain-920722356/">linkedin.com/in/sameer-hussain-920722356</a> &nbsp;·&nbsp; <a href="https://github.com/sameer-hussain-AI">github.com/sameer-hussain-AI</a>
 
-](https://github.com/sameer-hussain-AI)
-
-<!-- Optional: add a public email once you choose one
-[
-
-![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:YOUR_EMAIL)
--->
+<br/><br/>
 
 *Learn → Build → Analyze → Share → Improve*
 
@@ -224,7 +192,5 @@ I'm always happy to talk about data, dashboards and analytics projects.
 ![Profile views](https://komarev.com/ghpvc/?username=sameer-hussain-AI&label=Profile%20views&color=1f6feb&style=flat-square)
 
 
-
-<img src="https://capsule-render.vercel.app/api?section=footer&type=wave&height=100&color=0:0D1117,100:1F6FEB" alt="" width="100%" />
 
 </div>
