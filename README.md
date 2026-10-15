@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Sameer Hussain - Aspiring Data Analyst, Business Intelligence" width="100%" />
+<img src="https://capsule-render.vercel.app/api?section=header&type=wave&height=230&color=0:0D1117,100:1F6FEB&text=Sameer%20Hussain&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Aspiring%20Data%20Analyst%20%7C%20Business%20Intelligence&descSize=18&descAlignY=56" alt="Sameer Hussain - Aspiring Data Analyst, Business Intelligence" width="100%" />
 
 ### Turning raw data into dashboards, insights and decisions
 
@@ -105,14 +105,14 @@ My goal is to become a Data Analyst / BI Analyst and solve real-world business p
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/sameer-hussain-AI/Supply-Chain-PowerBI-Analytics"><img src="assets/thumb-supply-chain.svg" alt="Supply Chain Analytics thumbnail" width="100%"></a>
+<a href="https://github.com/sameer-hussain-AI/Supply-Chain-PowerBI-Analytics"><img src="https://opengraph.githubassets.com/1/sameer-hussain-AI/Supply-Chain-PowerBI-Analytics" alt="Supply Chain Analytics thumbnail" width="100%"></a>
 <h3><a href="https://github.com/sameer-hussain-AI/Supply-Chain-PowerBI-Analytics">📦 Supply Chain Analytics</a></h3>
 <p>End-to-end project on sales, profitability, product, category and regional performance, from data cleaning and EDA to KPIs and an interactive dashboard.</p>
 <p><code>Python</code> · <code>Pandas</code> · <code>Power Query</code> · <code>Power BI</code> · <code>DAX</code></p>
 <p><a href="https://github.com/sameer-hussain-AI/Supply-Chain-PowerBI-Analytics">View project →</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/sameer-hussain-AI/Personal-Finance-Tracker-CLI"><img src="assets/thumb-finance-tracker.svg" alt="Personal Finance Tracker CLI thumbnail" width="100%"></a>
+<a href="https://github.com/sameer-hussain-AI/Personal-Finance-Tracker-CLI"><img src="https://opengraph.githubassets.com/1/sameer-hussain-AI/Personal-Finance-Tracker-CLI" alt="Personal Finance Tracker CLI thumbnail" width="100%"></a>
 <h3><a href="https://github.com/sameer-hussain-AI/Personal-Finance-Tracker-CLI">💰 Personal Finance Tracker CLI</a></h3>
 <p>Modular Python command-line app for income and expense tracking, budgeting, accounts, categories, search and filtering, reports, and CSV/Excel export.</p>
 <p><code>Python</code> · <code>CSV</code></p>
@@ -121,14 +121,14 @@ My goal is to become a Data Analyst / BI Analyst and solve real-world business p
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/sameer-hussain-AI/E-Commerce-Sales-Analysis-Dashboard"><img src="assets/thumb-ecommerce.svg" alt="E-Commerce Sales Dashboard thumbnail" width="100%"></a>
+<a href="https://github.com/sameer-hussain-AI/E-Commerce-Sales-Analysis-Dashboard"><img src="https://opengraph.githubassets.com/1/sameer-hussain-AI/E-Commerce-Sales-Analysis-Dashboard" alt="E-Commerce Sales Dashboard thumbnail" width="100%"></a>
 <h3><a href="https://github.com/sameer-hussain-AI/E-Commerce-Sales-Analysis-Dashboard">🛒 E-Commerce Sales Dashboard</a></h3>
 <p>Interactive Excel dashboard covering sales, profit, product, category and customer analysis, with Power Query cleaning, KPIs, PivotTables and PivotCharts.</p>
 <p><code>Excel</code> · <code>Power Query</code></p>
 <p><a href="https://github.com/sameer-hussain-AI/E-Commerce-Sales-Analysis-Dashboard">View project →</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/sameer-hussain-AI/Supermarket-Performance-Analysis"><img src="assets/thumb-supermarket.svg" alt="Supermarket Performance Analysis thumbnail" width="100%"></a>
+<a href="https://github.com/sameer-hussain-AI/Supermarket-Performance-Analysis"><img src="https://opengraph.githubassets.com/1/sameer-hussain-AI/Supermarket-Performance-Analysis" alt="Supermarket Performance Analysis thumbnail" width="100%"></a>
 <h3><a href="https://github.com/sameer-hussain-AI/Supermarket-Performance-Analysis">🛍️ Supermarket Performance Analysis</a></h3>
 <p>Exploratory data analysis of supermarket sales to uncover trends, customer behavior and actionable business insights.</p>
 <p><code>Python</code></p>
@@ -175,9 +175,9 @@ I'm always happy to talk about data, dashboards and analytics projects.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sameer-hussain-920722356/"><img src="assets/linkedin.svg" alt="LinkedIn" width="52" height="52"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/sameer-hussain-AI"><img src="assets/github.svg" alt="GitHub" width="52" height="52"></a>
+<a href="https://www.linkedin.com/in/sameer-hussain-920722356/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="56"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/sameer-hussain-AI"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="56"></a>
 
 <br/>
 
